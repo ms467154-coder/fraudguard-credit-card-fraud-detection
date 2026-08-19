@@ -1,0 +1,14 @@
+{
+  "LogisticRegression": {
+    "features": ["V17", "V14", "V12", "V10", "V16", "V3", "V7", "V11", "V4", "V18", "V1", "V9", "V5", "V2", "V6", "V21", "V19", "V20", "V8", "V27"],
+    "description": "Logistic Regression - trained on top 20 correlated features"
+  },
+  "RandomForest": {
+    "features": ["V17", "V14", "V12", "V10", "V16", "V3", "V7", "V11", "V4", "V18", "V1", "V9", "V5", "V2", "V6", "V21", "V19", "V20", "V8", "V27"],
+    "description": "Random Forest - trained on top 20 correlated features"
+  },
+  "XGBoost": {
+    "features": ["V17", "V14", "V12", "V10", "V16", "V3", "V7", "V11", "V4", "V18", "V1", "V9", "V5", "V2", "V6", "V21", "V19", "V20", "V8", "V27"],
+    "description": "XGBoost - trained on top 20 correlated features"
+  }
+}

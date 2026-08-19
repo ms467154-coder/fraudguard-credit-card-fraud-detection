@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Local data and generated outputs
+creditcard.csv
+*.log
+outputs/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
